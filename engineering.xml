@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+    <head>Leaf Subscriptions</head>
+    <body>
+        <outline title="via @codeship" xmlUrl="http://blog.codeship.com/feed/" type="rss" text="via @codeship"/>
+        <outline title="Google AI Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" type="rss" text="Google AI Blog"/>
+        <outline title="Neopythonic - RSS" xmlUrl="http://neopythonic.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Neopythonic - RSS"/>
+        <outline title="RSS 2.0 Feed" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" type="rss" text="RSS 2.0 Feed"/>
+        <outline title="Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss/" type="rss" text="Cloudflare Blog"/>
+        <outline title="Docker Blog Feed" xmlUrl="https://blog.docker.com/feed/" type="rss" text="Docker Blog Feed"/>
+        <outline title="RSS" xmlUrl="https://blog.shazam.com/feed" type="rss" text="RSS"/>
+        <outline title="Uber Engineering Blog » Feed" xmlUrl="https://eng.uber.com/feed/" type="rss" text="Uber Engineering Blog » Feed"/>
+        <outline title="Yelp Engineering and Product Blog" xmlUrl="https://engineeringblog.yelp.com/feed.xml" type="rss" text="Yelp Engineering and Product Blog"/>
+        <outline title="evernote.com Managed WordPress Site » Feed" xmlUrl="https://evernote.com/blog/feed/" type="rss" text="evernote.com Managed WordPress Site » Feed"/>
+        <outline title="GitHub Engineering" xmlUrl="https://githubengineering.com/atom.xml" type="rss" text="GitHub Engineering"/>
+        <outline title="Mozilla Hacks – the Web developer blog" xmlUrl="https://hacks.mozilla.org/feed/" type="rss" text="Mozilla Hacks – the Web developer blog"/>
+        <outline title="Labs » Feed" xmlUrl="https://labs.spotify.com/feed/" type="rss" text="Labs » Feed"/>
+        <outline title="RSS" xmlUrl="https://medium.com/feed/airbnb-engineering" type="rss" text="RSS"/>
+        <outline title="RSS" xmlUrl="https://medium.com/feed/netflix-techblog" type="rss" text="RSS"/>
+        <outline title="RSS" xmlUrl="https://medium.com/feed/strava-engineering" type="rss" text="RSS"/>
+        <outline title="RSS" xmlUrl="https://slack.engineering/feed" type="rss" text="RSS"/>
+        <outline title="Stack Overflow Blog » Engineering Category Feed" xmlUrl="https://stackoverflow.blog/engineering/feed/" type="rss" text="Stack Overflow Blog » Engineering Category Feed"/>
+        <outline title="RSS" xmlUrl="https://www.digitalocean.com/community/tutorials/feed" type="rss" text="RSS"/>
+        <outline title="igvita.com RSS Feed" xmlUrl="https://www.igvita.com/feed/" type="rss" text="igvita.com RSS Feed"/>
+        <outline title="Toptal Engineering Blog" xmlUrl="https://www.toptal.com/developers/blog.rss" type="rss" text="Toptal Engineering Blog"/>
+    </body>
+</opml>
