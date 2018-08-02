@@ -2,9 +2,10 @@
 <opml version="1.0">
     <head>Leaf Subscriptions</head>
     <body>
-        <outline title="Codeship" xmlUrl="http://blog.codeship.com/feed/" type="rss" text="via @codeship"/>
+        <outline title="via @codeship" xmlUrl="http://blog.codeship.com/feed/" type="rss" text="via @codeship"/>
         <outline title="Google AI Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" type="rss" text="Google AI Blog"/>
         <outline title="Neopythonic - RSS" xmlUrl="http://neopythonic.blogspot.com/feeds/posts/default?alt=rss" type="rss" text="Neopythonic - RSS"/>
+        <outline title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" type="rss" text="Slashdot"/>
         <outline title="RSS 2.0 Feed" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" type="rss" text="RSS 2.0 Feed"/>
         <outline title="Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss/" type="rss" text="Cloudflare Blog"/>
         <outline title="Docker Blog Feed" xmlUrl="https://blog.docker.com/feed/" type="rss" text="Docker Blog Feed"/>
